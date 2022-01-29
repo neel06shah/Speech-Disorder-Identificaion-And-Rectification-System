@@ -1,1 +1,1 @@
-# Speech Disorder Idetificaion And Rectification System
+# Speech Disorder Identificaion And Rectification System
